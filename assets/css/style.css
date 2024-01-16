@@ -4,15 +4,18 @@
     justify-content: space-around;
     background-color: cadetblue;
     color: white
+
 }
 
 .h1{
     margin: 20px;
+
 }
 
 .div1{
     display: flex;
     justify-content: space-around;
+
 }
 
 .main{
@@ -22,8 +25,9 @@
 
 .footer{
     background-color: cadetblue;
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    
 }
