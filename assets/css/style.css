@@ -1,14 +1,13 @@
 
-.poppins-extralight-italic {
-    font-family: "Poppins", sans-serif;
-    font-weight: 200;
-    font-style: italic;
-  }
-  
+
+.body{
+    font-family: 'Raleway', sans-serif;
+}
+
 .navbar{
     display: flex;
     justify-content: space-around;
-    background-color: cadetblue;
+    background-color: cadetblue!important;
     color: white
 
 }
